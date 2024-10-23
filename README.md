@@ -27,18 +27,15 @@ I'm a passionate software developer with a strong foundation in various programm
 ---
 
 ## 🔍 Areas of Interest:
-- **Database Internals**: I'm fascinated by how databases are structured under the hood, focusing on performance optimization, indexing, and efficient data retrieval.
-- **Collaborative Applications**: Exploring ways to improve real-time communication, collaboration tools, and multi-user systems.
+- **Database Internals**: I enjoy learning about how databases are structured and optimized for performance.
+- **Collaborative Applications**: I’m interested in building tools and applications that help people work together efficiently.
 
 ---
 
 ## 🎓 Education:
 - **Faculty of Electrical Engineering, University of Niš**  
-  *B.Sc. in Electrical Engineering and Computer Science*
+  *4th Year Student, Electrical Engineering and Computer Science*
 
 ---
 
-## 🌱 What I'm Learning:
-I'm currently exploring more advanced topics in databases, distributed systems, and the latest features in modern web development.
-
----
+Thanks for stopping by! 😊
