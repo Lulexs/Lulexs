@@ -34,7 +34,7 @@ I'm a passionate software developer with a strong foundation in various programm
 
 ## 🎓 Education:
 - **Faculty of Electrical Engineering, University of Niš**  
-  *4th Year Student, Electrical Engineering and Computer Science*
+  *4th Year Student, Computer Science and Informatics*
 
 ---
 
